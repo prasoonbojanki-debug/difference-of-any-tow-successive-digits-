@@ -1,0 +1,1 @@
+# difference-of-any-tow-successive-digits-
